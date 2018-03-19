@@ -1,0 +1,22 @@
+.user-list {
+    text-align: center;
+}
+
+.user-box {
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.user-box-name {
+    font-size: 200%;
+    background: cyan;
+    padding: 1px;
+}
+
+.user-box-info {
+    background: blue;
+    color: white;
+    padding: 10px;
+}
